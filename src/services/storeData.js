@@ -7,7 +7,7 @@ async function storeData(id, data) {
 
   try {
     const db = new Firestore({
-      projectId: 'submissionmlgc-8ifarrel',
+      projectId: 'submissionmlgc-farrelsirah',
       keyFilename: pathKey,
     });
  
